@@ -8,7 +8,6 @@ Key Features
 
 - Payment Calculation: Computes delivery and cleaning payments based on specified rates.
 - Multiple Stops Support: Handles multiple delivery stops with multiple bounce houses.
-- Typo Tolerance: Basic handling of minor typos in user input to improve usability.
 
 Files
 
