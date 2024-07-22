@@ -24,7 +24,7 @@ Files
 Installation
 
 1. Clone the Repository:
-    git clone https://github.com/yourusername/bounce-house-payment-calculator.git
+    git clone https://github.com/csiladin/bounce-house-payment-calculator.git
     cd bounce-house-payment-calculator
 
 2. Build the Project:
