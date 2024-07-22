@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1721660516 source:c:\users\csila\onedrive\c++ projects\astro jump calculator\main.cpp
+	<iostream>
+	<map>
+	<string>
+	"bounce_prices.h"
+
+1721660516 c:\users\csila\onedrive\c++ projects\astro jump calculator\bounce_prices.h
+	<map>
+	<string>
+
